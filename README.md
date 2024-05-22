@@ -1,47 +1,16 @@
-# MERN E-COMMERCE TUTORIAL
+The MERN stack ecommerce website project integrates modern technologies for comprehensive frontend and backend development. 
 
-Hi! My name is **Abhishek Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
-
-# Prerequisite
-
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
-2.  Node - https://youtu.be/BSO9C8Z-YV8
-3.  React - https://youtu.be/99kgUCIMboY
-4.  Express - https://youtu.be/teipbke8c4A\
-5.  MongoDB - https://youtu.be/AYDP1S5BbTo
-6.  RestApi - https://youtu.be/AhCSfuG9Jxw _(optional)_
-
-# Install Dependencies
-
-**For Backend** - `npm i`
-
-**For Frontend** - `cd frontend` ` npm i`
-
-## Env Variables
-
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
-
-**Essential Variables**
-PORT=
-DB_URI =
-STRIPE_API_KEY=
-STRIPE_SECRET_KEY=
-JWT_SECRET=
-JWT_EXPIRE=
-COOKIE_EXPIRE=
-SMPT_SERVICE =
-SMPT_MAIL=
-SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
-CLOUDINARY_NAME
-CLOUDINARY_API_KEY
-CLOUDINARY_API_SECRET
-_fill each filed with your info respectively_
-
-## Author
-
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
-**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
+Key Features:
+-Full Stack Development: Utilizes MERN stack for seamless integration between frontend and backend.
+-React.js for Frontend: Employs React.js for modular and reusable UI development.
+-Redux for State Management: Implements Redux for efficient state management across the frontend.
+-Node.js and Express.js for Backend: Leverages Node.js and Express.js for building robust server-side applications.
+-MongoDB as Database: Integrates MongoDB for efficient storage and retrieval of data.
+-User Authentication and Authorization: Implements secure access mechanisms with user registration, login, and authentication middleware.
+-Product Management: Provides APIs for product CRUD operations, search, filtering, pagination, and error handling.
+-Order Management: Facilitates order creation, payment processing, and order history tracking.
+-Cart Functionality: Implements a shopping cart for seamless product management and checkout.
+-Admin Dashboard: Offers a secure interface for managing website content, orders, and users with role-based authentication.
+-Responsive Design: Ensures optimal user experience across various devices with responsive layout and styling.
+-Search Engine Optimization (SEO): Enhances website visibility and ranking on search engines with SEO best practices.
+-Error Handling and Logging: Detects, logs, and handles errors for a robust and reliable ecommerce platform.
